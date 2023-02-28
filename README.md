@@ -20,6 +20,6 @@ Serão utilizadas as seguintes ferramentas: Python, Pandas e PowerBI
 
 * estados_bruto.xml
 * cidades-bruto.csv
-* main.py
-* analise_censo_2010.csv
-* dashboard_censo_2010.pbix
+* main.py: programa principal
+* analise_censo_2010.csv: dados limpos para a análise (Etapa 3)
+* dashboard_censo_2010.pbix: dashboard PowerBI
